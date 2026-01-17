@@ -2,3 +2,4 @@ tensorflow==2.19.0
 gradio==5.49.1
 numpy
 Pillow
+cryptography
