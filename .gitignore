@@ -1,0 +1,4 @@
+/venv
+/img
+/.gradio
+keys/private_key.pem
